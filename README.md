@@ -17,6 +17,6 @@ s - backward
 a - turn left
 d - turn right
 space - stop movement
-+ - increase speed
-- - decrease speed
+plus - increase speed
+minus - decrease speed
 x - terminate program
